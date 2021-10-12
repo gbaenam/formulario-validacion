@@ -16,6 +16,10 @@ body {
   border: 1px solid #000;
   transform: translate(-50%, -50%); }
 
+.form-control.correcta input {
+  border: 0.1px solid;
+  border-color: #08ffc8; }
+
 .form-control.falla input {
   border: 0.1px solid;
   border-color: #fe5f55; }
